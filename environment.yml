@@ -1,9 +1,5 @@
 name: matplotlib-environment
 dependencies:
-  - pip
   - python
   - numpy
   - matplotlib
-  - pandas
-  - toolz
-  - scipy
